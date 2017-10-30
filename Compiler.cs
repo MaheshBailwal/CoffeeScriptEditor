@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CoffeeEditor
 {
-    public class CoffeCompiler : ICompiler
+    public class CoffeScriptCompiler : ICompiler
     {
         public string Complie(string coffeText)
         {
