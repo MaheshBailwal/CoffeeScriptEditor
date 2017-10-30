@@ -43,7 +43,7 @@ namespace CoffeeEditor
 
         private string startPage = string.Empty;
         private Process webServerProcess;
-        ICompiler compiler = new CoffeCompiler();
+        ICompiler compiler = new CoffeScriptCompiler();
         /// <summary>
         /// Initializes a new instance of the <see cref="MDIParent1"/> class.
         /// </summary>

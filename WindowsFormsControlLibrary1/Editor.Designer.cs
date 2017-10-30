@@ -57,7 +57,6 @@
             this.txtRight.Size = new System.Drawing.Size(177, 181);
             this.txtRight.TabIndex = 0;
             this.txtRight.Text = "";
-            this.txtRight.TextChanged += new System.EventHandler(this.txtRight_TextChanged);
             // 
             // splitContainer1
             // 
@@ -121,7 +120,6 @@
             this.txtBotttom.Size = new System.Drawing.Size(383, 39);
             this.txtBotttom.TabIndex = 0;
             this.txtBotttom.Text = "";
-            this.txtBotttom.TextChanged += new System.EventHandler(this.txtBotttom_TextChanged);
             // 
             // Editor
             // 
